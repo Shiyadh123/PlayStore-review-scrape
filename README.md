@@ -1,7 +1,7 @@
 # PlayStore-review-scrape
 NodeJS project to scrape all reviews of a particular App from Google Play Store.
 
-##Installation Steps:
+**Installation Steps:**
 1. Run the following command in the current directory,
   `npm i puppeteer fs google-play-scraper`
 2. Paste the id of the require app in to the variable `appId` in `index.js` file. 
